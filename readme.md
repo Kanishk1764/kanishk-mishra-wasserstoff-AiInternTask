@@ -26,7 +26,7 @@ DocTheme is an intelligent document analysis system that enables users to upload
 
 ## 🎮 Demo
 
-![DocTheme Demo](https://via.placeholder.com/800x450.png?text=DocTheme+Demo)
+![DocTheme Demo](https://github.com/Kanishk1764/kanishk-mishra-wasserstoff-AiInternTask/blob/3bda02435d9058bd884ccbda5ceb21e80ca22461/demo/intro.PNG)
 
 ## 🔧 Installation
 
@@ -42,7 +42,7 @@ DocTheme is an intelligent document analysis system that enables users to upload
 
 ```bash
 git clone https://github.com/Kanishk1764/kanishk-mishra-wasserstoff-AiInternTask.git
-cd doctheme
+cd kanishk-mishra-wasserstoff-AiInternTask
 ```
 
 2. Create and activate a virtual environment:
