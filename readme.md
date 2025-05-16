@@ -41,7 +41,7 @@ DocTheme is an intelligent document analysis system that enables users to upload
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/doctheme.git
+git clone https://github.com/Kanishk1764/kanishk-mishra-wasserstoff-AiInternTask.git
 cd doctheme
 ```
 
